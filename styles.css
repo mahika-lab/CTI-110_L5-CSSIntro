@@ -1,0 +1,50 @@
+body {
+  background-color: #934b71;
+  font-family: Verdana, sans-serif;
+  font-size: 18px;
+  padding: 25px;
+  margin: 25px;
+  border: 2px solid #fdfdfc;
+}
+
+.list {
+  color: #ea8098;
+}
+
+#aside {
+  color: #e76387;
+
+}
+
+#footer{
+    color: #e76387
+}
+
+#title {
+    color: #e76387;
+}
+
+.text {
+    color: #ea8098;
+}
+
+.subheading {
+    color: #e19aa7;
+}
+
+.image {
+    width: 300px;
+    height: 220px;
+}
+
+a {
+  color: #ea8098;
+}
+
+a:visited {
+  color: #e7b1cc; 
+}
+
+a:hover {
+  opacity: 0.4;
+}
